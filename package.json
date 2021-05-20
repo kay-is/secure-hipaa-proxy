@@ -1,0 +1,16 @@
+{
+  "name": "hipaa-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analytics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kay Plößer",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "simple-encryptor": "^4.0.0"
+  }
+}
